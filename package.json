@@ -1,0 +1,23 @@
+{
+  "name": "sequelize-",
+  "version": "1.0.0",
+  "description": "intro to sequelize",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shaneSiebler/sequelize-.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shaneSiebler/sequelize-/issues"
+  },
+  "homepage": "https://github.com/shaneSiebler/sequelize-#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mysql": "^2.18.1"
+  }
+}
